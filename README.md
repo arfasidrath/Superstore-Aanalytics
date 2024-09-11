@@ -1,4 +1,4 @@
-**Superatore_Analysis**
+**Superstore_Analysis**
 
 Superstore is a retail chain that operates across various regions in the United States. It sells a wide range of products categorized under Furniture, Office Supplies, and Technology.
 
